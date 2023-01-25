@@ -1,0 +1,1 @@
+docker run --rm -ti -p 8888:8888 -v C:/Users/kadhinugraha/OneDrive/Application:/home/jovyan/work darribas/gds_py:6.1

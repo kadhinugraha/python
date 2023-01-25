@@ -1,0 +1,9 @@
+version: '1'
+
+services:
+  python:
+    build: python
+    ports: 
+        - "8888:8888"
+    volumes:
+        - "C:/Users/kadhinugraha/OneDrive/Application:/home/jovyan/work" 
