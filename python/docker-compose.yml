@@ -6,4 +6,4 @@ services:
     ports: 
         - "8888:8888"
     volumes:
-        - "C:/Users/kadhinugraha/OneDrive/Application:/home/jovyan/work" 
+        - "./data:/home/jovyan/work" 
